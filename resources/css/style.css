@@ -32,7 +32,10 @@ body {
 }
 
 
-footer {
+/* FOOTER */
+
+footer{
     text-align: right;
     color: gray;
+    font-size: 21px;
 }
